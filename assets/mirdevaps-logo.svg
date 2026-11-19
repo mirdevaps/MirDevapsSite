@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">MirDevAps</title><desc id="desc">Monograma MD da MirDevAps</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c4dff"/><stop offset=".52" stop-color="#c342ff"/><stop offset="1" stop-color="#ff4f86"/></linearGradient></defs>
+  <path fill="url(#g)" d="M22 42c0-11 9-20 20-20h44l25 35 25-35h24c32 0 58 26 58 58v60c0 32-26 58-58 58H42c-11 0-20-9-20-20V42Zm38 23v90h27V105l24 31 24-31v50h22c9 0 17-8 17-17V82c0-9-8-17-17-17h-5l-41 53-41-53H60Z"/>
+  <path fill="#29d9ff" d="m93 153 13-37h14l-13 37H93Z"/>
+</svg>
